@@ -9,13 +9,7 @@ API REST desarrollada para la gestión de inventario, control de clientes y emis
 
 ## Integrantes del Equipo
 * Jani Escarleth Villalobos Baiza 20191006865
-<<<<<<< HEAD
-* Scarletth Belinda Hernandez Cerrato 20141001543
-* Alex Mauricio Velasquez Sierra 20211000984
-=======
-* Scarlett Belinda Hernandez Cerrato 20141001543
-* Alex Mauricio Velásquez Sierra 20211000984
->>>>>>> 58c2015 (feat: implement CRUD for catalogs and products, validations, error handling, pagination and filters)
+* NOTA IMPORTANTE: Hago una petición para realizar mi proyecto sola, ya que mis compañeros de grupo se unieron a otro grupo de trabajo porque ellos creen que es mejor para ellos ya que tenemos diferentes tiempos de horario. Espero me entienda y pueda dar el visto bueno y de antemano muchas gracias Licenciado.
 
 ## Instalación y Configuración Local
 1. Clona este repositorio:
