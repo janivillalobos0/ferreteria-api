@@ -9,7 +9,9 @@ API REST desarrollada para la gestión de inventario, control de clientes y emis
 
 ## Integrantes del Equipo
 * Jani Escarleth Villalobos Baiza 20191006865
-* NOTA IMPORTANTE: Hago una petición para realizar mi proyecto sola, ya que mis compañeros de grupo se unieron a otro grupo de trabajo porque ellos creen que es mejor para ellos ya que tenemos diferentes tiempos de horario. Espero me entienda y pueda dar el visto bueno y de antemano muchas gracias Licenciado.
+* Scarletth Belinda Hernandez Cerrato 20141001543
+* Alex Mauricio Velasquez Sierra 20211000984
+
 
 ## Instalación y Configuración Local
 1. Clona este repositorio:
